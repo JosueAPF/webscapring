@@ -10,7 +10,7 @@ técnica de extracción de sitios web
 * urllib
 
 
-
+## con esta script puedes extraer el codigo de una pagina web y guardarlo (boton guardar) en un archivo de texto
 
 ![Alt text](https://github.com/Gago-jpg/web-scaping/blob/master/wb-sp.png)
 
