@@ -14,3 +14,8 @@ técnica de extracción de sitios web
 
 ![Alt text](https://github.com/Gago-jpg/web-scaping/blob/master/wb-sp.png)
 
+
+
+
+
+![Alt text](https://github.com/Gago-jpg/web-scaping/blob/master/wb_texto.png)
