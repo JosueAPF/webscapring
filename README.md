@@ -12,5 +12,5 @@ técnica de extracción de sitios web
 
 
 
-![Alt text](https://github.com/josueA1995/Web-Scarping/blob/master/nbj.png)
+![Alt text](https://github.com/Gago-jpg/web-scaping/blob/master/wb-sp.png)
 
