@@ -1,4 +1,3 @@
-
 [![Build Status](https://img.shields.io/badge/Python-3.7-green?logo=python)]()
 
 # WRB-SCRAPING
